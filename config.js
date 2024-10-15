@@ -36,7 +36,7 @@ const settings = {
                 '0xea11f05cb06456755a0b1b52bbd1b4a9e186ec89495f6ba02094ed84a075248a',
             ],
         },
-        "workersCount": 'auto',
+        "workersCount": '24',
         "rpc": {
             // url: 'https://sui-mainnet.g.allthatnode.com/full/json_rpc',
             // headers: {
